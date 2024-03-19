@@ -68,10 +68,6 @@ S𝐭𝐞𝐩 1: 𝐂𝐥𝐚𝐫𝐢𝐟𝐲 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦�
 
 	This approach works well for most problems but may not be ideal for every type of problem, so feel free to adapt it according to the specific nuances of the interview question.
 
-![image](https://github.com/abhijitxroy/system-design/assets/161963891/da1ebd33-b98c-404f-a2af-e8f55dde3ff7)
-
-![image](https://github.com/abhijitxroy/system-design/assets/161963891/663d98b5-b8ba-488d-abd4-dacadf866e7d)
-
 
 Links: https://github.com/donnemartin/system-design-primer
 -
